@@ -17,6 +17,10 @@ import java.util.Map.Entry;
 import com.jisl.fundmanagement.model.DataValueBean;
 import com.jisl.fundmanagement.model.Report;
 
+
+/*
+*This is example of various date utility
+*/
 public class DateUtility {
 
 	public static String dateToStringInDDMMMYYYY(Date date) {
